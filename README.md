@@ -17,7 +17,7 @@ The project demonstrates the complete data analytics workflow:
 
 # 📊 Dashboard Preview
 
-![Movie Dashboard](images/dashboard_movies_analysis.png)
+![Movie Dashboard](images/dashboard_movies_analysis.PNG)
 
 
 # 🛠 Tools & Technologies Used
